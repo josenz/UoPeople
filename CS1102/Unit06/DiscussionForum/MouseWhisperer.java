@@ -1,4 +1,4 @@
-import java.awt.event.*; // This is a package
+import java.awt.*; // This is a package
 import javax.swing.*; // This is another package
 
 public class MouseWhisperer extends JFrame implements MouseListener { // JFrame is the SuperClass | MouseListener is the interface
